@@ -14,4 +14,4 @@
 - 💻 [GitHub](https://github.com/Mercy294)
 
 ✍️ Quote I live by:
-> "Build solutions that create impact and empower communities."
+> "Build solutions that create impact.
