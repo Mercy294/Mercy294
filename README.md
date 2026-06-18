@@ -1,59 +1,52 @@
 <div align="center">
-  <!-- Title - Always centered -->
-  <h1>👋 Hi, I'm Benjamin!</h1>
-  <p>
-    <em>Frontend Developer blending design & technology into stunning applications</em>
-  </p>
+
+# 👋 Hi, I'm Mercy!
+
+**Full Stack Developer** | Python (Django) · React · React Native
+
+Building scalable web & mobile apps with clean code and user-centered design.
+
+<br>
+
+<!-- Stats - Auto-stack on mobile -->
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mercy294&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mercy294&layout=compact&theme=radical" width="48%" />
 </div>
 
-<!-- Responsive Stats Cards -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BenjaminKyamanywa&show_icons=true&theme=radical" 
-       alt="GitHub Stats" 
-       width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminKyamanywa&layout=compact&theme=radical" 
-       alt="Top Languages" 
-       width="48%" />
-</div>
+<br>
 
-<!-- Responsive Tech Stack with emojis -->
-<div align="center">
-  <h3>🛠️ Tech Stack</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-    <!-- Badges auto-resize on mobile -->
-  </p>
-</div>
-
-<!-- Responsive About Section -->
-<table align="center">
+<!-- Info - Centered and responsive -->
+<table>
   <tr>
-    <td align="center" width="50%">
-      <h3>🚀 What I Do</h3>
-      <p>Turning complex challenges into scalable, elegant solutions</p>
+    <td align="center" width="33%">
+      🔭 <strong>Working on</strong><br>
+      E-Commerce Platform
     </td>
-    <td align="center" width="50%">
-      <h3>🌱 Currently Exploring</h3>
-      <p>Modern frontend ecosystems & performance optimization</p>
+    <td align="center" width="33%">
+      🌱 <strong>Learning</strong><br>
+      DevOps & Cloud Deployment
+    </td>
+    <td align="center" width="33%">
+      💬 <strong>Ask me about</strong><br>
+      Django, React, Full-Stack
     </td>
   </tr>
 </table>
 
-<!-- Fun Facts - responsive grid -->
-<div align="center">
-  <h3>⚡ Fun Facts</h3>
-  <p>🏊 Avid workout fan &nbsp;|&nbsp; 🌟 Favorite anime: Swallowed Star &nbsp;|&nbsp; 📘 Love technical books</p>
-</div>
+<br>
 
-<!-- Connect - always centered -->
-<div align="center">
-  <h3>🔗 Let's Connect</h3>
-  <a href="https://linkedin.com/in/benjaminkyamanywa">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/benjaminkyamanywa">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
-  </a>
+📫 **Reach me:** [mercyniblett11@gmail.com](mailto:mercyniblett11@gmail.com)
+
+<!-- Connect Badges - Always centered -->
+<a href="https://linkedin.com/in/mercy-ayuru-56b06b374/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Mercy294">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:mercyniblett11@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
