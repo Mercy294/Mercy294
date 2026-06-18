@@ -6,4 +6,4 @@
 🛠️ Tech: Django, PostgreSQL, React, Docker, Git, CI/CD  
 🌱 Learning: Cloud deployment, System Design, Advanced DevOps  
 📫 Reach me: mercyniblett11@gmail.com  
-🔗 LinkedIn: linkedin.com/in/mercy-ayuru-56b06b374/  
+🔗 LinkedIn: https://www.linkedin.com/in/mercy-ayuru-56b06b374/
