@@ -8,14 +8,6 @@
 - PostgreSQL, MySQL, SQLite
 - Git, GitHub, Docker, Postman
 
-🔭 Projects:
-- Multi-Vendor E-Commerce Platform
-- Wood and Furniture Management System
-
-📚 I'm currently exploring:
-- Cloud Computing (AWS)
-- CI/CD with GitHub Actions
-
 📫 Find me on:
 - 📧 mercyniblett11@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/mercy-ayuru-56b06b374/)
