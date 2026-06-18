@@ -1,8 +1,26 @@
-👋 Hi, I'm Mercy Ayuru!
+# 👋 Hi, I'm Mercy Ayuru
 
-🚀 Full Stack Developer | Python (Django) | React | React Native  
-💼 Built: E-Commerce Platform (multi-vendor) & Furniture Management System  
-🛠️ Tech: Django, PostgreSQL, React, Docker, Git, CI/CD  
-🌱 Learning: Cloud deployment, System Design, Advanced DevOps  
-📫 Reach me: mercyniblett11@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/mercy-ayuru-56b06b374/
+### Full Stack Developer
+
+💻 Passionate about building scalable web and mobile applications using modern technologies.
+
+### 🛠 Tech Stack
+- Python • Django • Django REST Framework
+- React • React Native • JavaScript
+- PostgreSQL • MySQL • SQLite
+- Git • GitHub • Docker • Postman
+
+### 🚀 Projects
+- 🛒 Multi-Vendor E-Commerce Platform
+- 🪑 Wood and Furniture Management System
+
+### 🌱 Currently Learning
+- AWS Cloud
+- CI/CD with GitHub Actions
+
+### 📫 Connect With Me
+- 📧 mercyniblett11@gmail.com
+- 💼 LinkedIn: linkedin.com/in/mercy-ayuru-56b06b374/
+- 💻 GitHub: github.com/Mercy294
+
+> ✨ "Build solutions that create impact and empower communities."
